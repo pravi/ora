@@ -45,7 +45,7 @@
 		"is-unicode-supported": "^0.1.0",
 		"log-symbols": "^4.1.0",
 		"strip-ansi": "^6.0.0",
-		"wcwidth": "^1.0.1"
+		"wcwidth.js": "^1.0.1"
 	},
 	"devDependencies": {
 		"@types/node": "^14.14.35",
